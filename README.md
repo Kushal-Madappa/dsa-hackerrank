@@ -3,13 +3,14 @@
 My HackerRank solution log. Solutions are in **Python 3** (or SQL for the SQL
 domain), written to pass HackerRank's grader directly with minimal boilerplate.
 
-**Problems solved: 64**
+**Problems solved: 82**
 
-Focus tracks (walked in order by my daily accountability workflow):
-1. **30 Days of Code** — Day 0 → Day 29, earns the 30 Days of Code badge
-2. **10 Days of Statistics** — Day 0 → Day 9, earns the Statistics badge
-3. **Algorithms · Warmup** — the ten classic warmup problems
+Focus tracks (walked in order by my daily workflow):
+1. **30 Days of Code** — Day 0 → Day 29 (badge earned)
+2. **10 Days of Statistics** — Day 0 → Day 9 (badge earned)
+3. **Algorithms · Warmup** — ten classic warmup problems
 4. **SQL Basic Select** — core SELECT/WHERE/ORDER BY practice
+5. **Python Domain** — Introduction → Basic Data Types → Strings → Sets → Collections (building Python badge)
 
 ## Structure
 
@@ -19,6 +20,7 @@ dsa-hackerrank/
 ├── statistics           # 10 Days of Statistics
 ├── warmup               # Algorithms · Warmup
 ├── implementation       # Algorithms · Implementation
+├── python               # Python
 ├── sql                  # SQL
 ```
 
@@ -97,6 +99,29 @@ dsa-hackerrank/
 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) | [implementation/between_two_sets.py](implementation/between_two_sets.py) |
 | [Grading Students](https://www.hackerrank.com/challenges/grading-students/problem) | [implementation/grading_students.py](implementation/grading_students.py) |
 | [Number Line Jumps](https://www.hackerrank.com/challenges/number-line-jumps/problem) | [implementation/number_line_jumps.py](implementation/number_line_jumps.py) |
+
+### Python  (`python/`)  — 18 problems
+
+| Problem | File |
+|---------|------|
+| [Find A String](https://www.hackerrank.com/challenges/find-a-string/problem) | [python/find_a_string.py](python/find_a_string.py) |
+| [Find Second Maximum Number In A List](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [python/find_second_maximum_number_in_a_list.py](python/find_second_maximum_number_in_a_list.py) |
+| [Finding The Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [python/finding_the_percentage.py](python/finding_the_percentage.py) |
+| [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [python/list_comprehensions.py](python/list_comprehensions.py) |
+| [Nested List](https://www.hackerrank.com/challenges/nested-list/problem) | [python/nested_list.py](python/nested_list.py) |
+| [Py Hello World](https://www.hackerrank.com/challenges/py-hello-world/problem) | [python/py_hello_world.py](python/py_hello_world.py) |
+| [Python Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem) | [python/python_arithmetic_operators.py](python/python_arithmetic_operators.py) |
+| [Python Division](https://www.hackerrank.com/challenges/python-division/problem) | [python/python_division.py](python/python_division.py) |
+| [Python If Else](https://www.hackerrank.com/challenges/python-if-else/problem) | [python/python_if_else.py](python/python_if_else.py) |
+| [Python Lists](https://www.hackerrank.com/challenges/python-lists/problem) | [python/python_lists.py](python/python_lists.py) |
+| [Python Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [python/python_loops.py](python/python_loops.py) |
+| [Python Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [python/python_mutations.py](python/python_mutations.py) |
+| [Python Print](https://www.hackerrank.com/challenges/python-print/problem) | [python/python_print.py](python/python_print.py) |
+| [Python String Split And Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [python/python_string_split_and_join.py](python/python_string_split_and_join.py) |
+| [Python Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [python/python_tuples.py](python/python_tuples.py) |
+| [Swap Case](https://www.hackerrank.com/challenges/swap-case/problem) | [python/swap_case.py](python/swap_case.py) |
+| [Whats Your Name](https://www.hackerrank.com/challenges/whats-your-name/problem) | [python/whats_your_name.py](python/whats_your_name.py) |
+| [Write A Function](https://www.hackerrank.com/challenges/write-a-function/problem) | [python/write_a_function.py](python/write_a_function.py) |
 
 ### SQL  (`sql/`)  — 10 problems
 
